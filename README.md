@@ -20,7 +20,7 @@ A live demo of the landing page can be accessed at [Demo Link]([https://your-dem
 - Image gallery showcasing different angles and views of the product
 - Pricing information and options
 
-##Technologies Used
+## Technologies Used
 - HTML5, CSS3 for creating the structure and style of the landing page
 - JavaScript for interactive elements and animations
 - Google Fonts for typography
